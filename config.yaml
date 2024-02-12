@@ -2,3 +2,87 @@ baseURL: https://talks.donsan.uk
 title: Security Talks Digest
 theme: DoIt
 enableEmoji: true
+
+params:
+  version: 0.3.X
+  title: Security Talks Digest
+  description: Weekly digest of the security talks, categorized, summarized, and tagged
+  fingerprint: sha512
+  dateFormat: "2006-01-02"
+  images: ["/logo.png"]
+  optimizeImages: true
+
+  home:
+    profile:
+      enable: True
+      avatarUrl: /logo.png
+      title: Security Talks Digest
+      subtitle: Weekly digest of the security talks, categorized, summarized, and tagged
+      typeit: False
+      social: True
+    posts:
+      enable: True
+  social:
+    ko-fi: securitytalks
+    Twitter: donsansec
+    Github: don-san-sec/security-talks
+    RSS: true
+
+  footer:
+    enable: False
+  cookieconsent:
+    enable: False
+  page:
+    hiddenFromHomePage: False
+    hiddenFromSearch: False
+    twemoji: False
+    lightgallery: False
+    ruby: False
+    fraction: False
+    fontawesome: False
+    linkToMarkdown: False
+    linkToSource: False
+    linkToEdit: False
+    linkToReport: False
+    rssFullText: True
+    pageStyle: wide
+    seriesNavigation: False
+    toc:
+      enable: True
+      keepStatic: False
+      auto: True
+    math:
+      enable: False
+      copyTex: False
+      mhchem: False
+    code:
+      copy: False
+      maxShownLines: 10
+    table:
+      sort: False
+    share:
+      enable: False
+    comment:
+      enable: False
+
+markup:
+  highlight:
+    codeFences: True
+    guessSyntax: True
+    lineNos: True
+    lineNumbersInTable: True
+    noClasses: False
+  goldmark:
+    extensions:
+      definitionList: True
+      footnote: True
+      linkify: True
+      strikethrough: True
+      table: True
+      taskList: True
+      typographer: True
+    renderer:
+      unsafe: True
+    tableOfContents:
+      startLevel: 2
+      endLevel: 6
