@@ -1,0 +1,4 @@
+baseURL: https://talks.donsan.uk
+title: Security Talks Digest
+theme: DoIt
+enableEmoji: true
