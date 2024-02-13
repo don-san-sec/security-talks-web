@@ -3,7 +3,7 @@ title: "Week 7. Surveillance and Spyware"
 summary: "This digest cover how European spyware threatens civil society around the world"
 date: 2024-02-13T01:04:38Z
 author: "David Sepashvili"
-draft: true
+draft: false
 ---
 
 
