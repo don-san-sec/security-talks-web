@@ -9,13 +9,13 @@ params:
   description: Weekly digest of the security talks, categorized, summarized, and tagged
   fingerprint: sha512
   dateFormat: "2006-01-02"
-  images: ["/logo.png"]
+  images: ["/logo.jpeg"]
   optimizeImages: true
 
   home:
     profile:
       enable: True
-      avatarUrl: /logo.png
+      avatarUrl: /logo.jpeg
       title: Security Talks Digest
       subtitle: Weekly digest of the security talks, categorized, summarized, and tagged
       typeit: False
