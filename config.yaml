@@ -46,7 +46,7 @@ params:
       enable: True
   social:
     ko-fi: securitytalks
-    Twitter: donsansec
+    Twitter: _security_talks
     Github: don-san-sec/security-talks
     RSS: true
   sponsor:
