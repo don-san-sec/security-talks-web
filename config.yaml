@@ -12,6 +12,10 @@ params:
   images: ["/logo.jpeg"]
   optimizeImages: true
 
+  header:
+    title:
+      name: Security Talks
+      logo: "/android-chrome-256x256.png"
   home:
     profile:
       enable: True
