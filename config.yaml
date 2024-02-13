@@ -7,6 +7,21 @@ author:
   email: "don-san-sec@pm.me"
   link: "https://donsan.uk"
 
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: "/"
+      weight: 1
+    - identifier: posts
+      name: Posts
+      url: "/posts/"
+      weight: 2
+    - identifier: about
+      name: About
+      url: "/about/"
+      weight: 99
+
 params:
   version: 0.3.X
   title: Security Talks Digest
@@ -17,12 +32,12 @@ params:
   optimizeImages: true
   header:
     title:
-      name: Security Talks
       logo: "/android-chrome-256x256.png"
   home:
     profile:
       enable: True
       avatarUrl: /logo.jpeg
+      avatarLinkURL: /about
       title: Security Talks Digest
       subtitle: Weekly digest of the security talks, categorized, summarized, and tagged
       typeit: False
