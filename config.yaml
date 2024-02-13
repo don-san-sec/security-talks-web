@@ -2,6 +2,10 @@ baseURL: https://talks.donsan.uk
 title: Security Talks Digest
 theme: DoIt
 enableEmoji: true
+author:
+  name: "David Sepashvili"
+  email: "don-san-sec@pm.me"
+  link: "https://donsan.uk"
 
 params:
   version: 0.3.X
@@ -11,7 +15,6 @@ params:
   dateFormat: "2006-01-02"
   images: ["/logo.jpeg"]
   optimizeImages: true
-
   header:
     title:
       name: Security Talks
@@ -31,9 +34,17 @@ params:
     Twitter: donsansec
     Github: don-san-sec/security-talks
     RSS: true
+  sponsor:
+    enable: true
+    bio: Want to express gratitude? Buy me a coffee.
+    link: https://ko-fi.com/securitytalks
+
 
   footer:
-    enable: False
+    enable: True
+    hugo: False
+    author: true
+    since: 2024
   cookieconsent:
     enable: False
   page:
