@@ -64,6 +64,9 @@ params:
       enable: False
     comment:
       enable: False
+  twitterCard: # https://github.com/dereckcurry/hugo-configurable-twitter-cards
+    generate: True
+    card: "summary"
 
 markup:
   highlight:
