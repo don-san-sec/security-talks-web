@@ -53,8 +53,6 @@ params:
     enable: true
     bio: Want to express gratitude? Buy me a coffee.
     link: https://ko-fi.com/securitytalks
-
-
   footer:
     enable: True
     hugo: False
