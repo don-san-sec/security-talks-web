@@ -25,7 +25,7 @@ menu:
 params:
   version: 0.3.X
   title: Security Talks Digest
-  description: Weekly digest of the security talks, categorized, summarized, and tagged
+  description: Weekly digest of the security talks, categorised, summarised, and tagged
   fingerprint: sha512
   dateFormat: "2006-01-02"
   images: ["/logo.jpeg"]
@@ -39,7 +39,7 @@ params:
       avatarUrl: /logo.jpeg
       avatarLinkURL: /about
       title: Security Talks Digest
-      subtitle: Weekly digest of the security talks, categorized, summarized, and tagged
+      subtitle: Weekly digest of the security talks, categorised, summarised, and tagged
       typeit: False
       social: True
     posts:
