@@ -1,6 +1,6 @@
 ---
 title: "About"
-summary: "TBD"
+summary: "Subscribe and recieve weekly digest with talks from Security Conferences around the world"
 date: 2024-02-13T19:47:52Z
 author: "David Sepashvili"
 draft: false
