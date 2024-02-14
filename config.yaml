@@ -103,6 +103,11 @@ params:
   twitterCard: # https://github.com/dereckcurry/hugo-configurable-twitter-cards
     generate: True
     card: "summary"
+  analytics:
+    enable: true
+    umami:
+      data_website_id: cad117fd-d112-4f24-8ba8-6b0f35969836
+      src: https://eu.umami.is/script.js
 
 markup:
   highlight:
