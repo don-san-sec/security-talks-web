@@ -83,4 +83,4 @@ There are multiple ways you can do it:
 1. Buy me a [Coffee](https://ko-fi.com/securitytalks);
 2. Drop a ⭐️ on [this](https://github.com/don-san-sec/security-talks) repository;
 3. Share this project with your friends and colleagues;
-4. Share a kind word or constractive feedback via [Email](mailto:don-san-talk@pm.me), [Twitter](https://twitter.com/_security_talks) or [Issues](https://github.com/don-san-sec/security-talks/issues).
+4. Share a kind word or constructive feedback via [Email](mailto:don-san-talk@pm.me), [Twitter](https://twitter.com/_security_talks) or [Issues](https://github.com/don-san-sec/security-talks/issues).
