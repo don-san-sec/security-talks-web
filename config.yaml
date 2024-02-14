@@ -45,10 +45,18 @@ params:
     posts:
       enable: True
   social:
-    ko-fi: securitytalks
-    Twitter: _security_talks
-    Github: don-san-sec/security-talks
-    RSS: true
+    twitter:
+      id: _security_talks
+      weight: 10
+    email:
+      Template: ''
+      URL: https://feedsubscription.com/to/security_talks
+      weight: 20
+    rss:
+      weight: 30
+    github:
+      id: don-san-sec/security-talks
+      weight: 40
   sponsor:
     enable: true
     bio: Want to express gratitude? Buy me a coffee.
