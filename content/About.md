@@ -15,7 +15,7 @@ This project seeks to aggregate materials from the security conferences around t
 It will never be a better time to cancel Netflix.
 
 ## How to consume?
-- Subscribe to the new posts on the [Website](https://talks.donsan.uk/) via [RSS Feed](https://talks.donsan.uk/index.xml).
+- Subscribe to the new posts on the [Website](https://talks.donsan.org/) via [RSS Feed](https://talks.donsan.org/index.xml).
 - Follow this project on [Twitter](https://twitter.com/_security_talks).
 - Get digest in your mailbox by subscribing on the [Newsletter](https://feedsubscription.com/subscription-request.html?feedId=security_talks).
 - Check out an [Archive in Markdown](https://github.com/don-san-sec/security-talks/tree/main/archive).

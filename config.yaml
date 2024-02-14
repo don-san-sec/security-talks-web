@@ -1,11 +1,11 @@
-baseURL: https://talks.donsan.uk
+baseURL: https://talks.donsan.org
 title: Security Talks Digest
 theme: DoIt
 enableEmoji: true
 author:
   name: "David Sepashvili"
   email: "don-san-sec@pm.me"
-  link: "https://donsan.uk"
+  link: "https://donsan.org"
 
 menu:
   main:
