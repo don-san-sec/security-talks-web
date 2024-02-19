@@ -30,6 +30,7 @@ params:
   dateFormat: "2006-01-02"
   images: ["/logo.jpeg"]
   optimizeImages: true
+  enableLastMod: false
   header:
     title:
       logo: "/android-chrome-256x256.png"
